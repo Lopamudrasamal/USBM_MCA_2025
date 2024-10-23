@@ -1,12 +1,12 @@
 //mathematical operaator
-/*let num1 = 5;
+let num1 = 5;
 let num2 = 3;
 let result1 =num1+num2;//addition operator
 let result2 =num1-num2;//substraction operator
 let result3 =num1*num2;//multiplication operator
 let result4 =num1/num2;//divison operator
 let result5 =num1%num2;//modulo operator
-console.log("result="+result3);*/
+console.log("result="+result3);
 
 //modular operator
 /*let num1=100;
