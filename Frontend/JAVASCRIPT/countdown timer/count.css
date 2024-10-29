@@ -1,0 +1,45 @@
+
+body {
+    background-color: black;
+    color: rgb(154, 174, 186);
+  }
+  h1 {
+    text-align: center;
+    text-decoration: dotted underline;
+  }
+  form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .field {
+    padding: 10px 15px;
+    outline: red;
+    font-size: medium;
+    border-radius: 10px;
+    border: none;
+  }
+  button {
+    margin-top: 20px;
+    cursor: pointer;
+    padding: 10px 20px;
+    background-color: rgb(211, 0, 186);
+    border: none;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  div {
+    color: white;
+   font-size: 32px;
+   text-align: center;
+    margin: auto;
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    padding: 50px;
+    background-color:rgb(158, 98, 127);
+  }
+  
